@@ -1,0 +1,33 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+appsettings.Development.json
+
+# Node
+node_modules/
+package-lock.json
+
+# Temp
+*.tmp
+*.temp
